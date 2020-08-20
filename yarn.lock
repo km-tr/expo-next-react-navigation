@@ -3900,10 +3900,9 @@ expo-module-scripts@^1.1.1:
     ts-jest "~24.0.2"
     typescript "^3.4.3"
 
-expo-navigation-core@^0.3.5:
+expo-navigation-core@km-tr/expo-navigation-core#nesting-navigate:
   version "0.3.5"
-  resolved "https://registry.yarnpkg.com/expo-navigation-core/-/expo-navigation-core-0.3.5.tgz#e237c5ab8e5697b011fbea0e9a323b78e75c63ef"
-  integrity sha512-+Xrxu1AwrG9Ez974em5lsInHMlaGm93ytha9q5++tmMOg4hq57QuCkVR6OMQbDj5U7oCPjHuhfnFov7YjMfmhg==
+  resolved "https://codeload.github.com/km-tr/expo-navigation-core/tar.gz/2f1f72cef99311866423482dde41278e902ab232"
   dependencies:
     "@react-navigation/native" "^5.0.0-alpha.29"
     lodash "^4.17.15"
