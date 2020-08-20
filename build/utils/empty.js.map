@@ -1,0 +1,1 @@
+{"version":3,"file":"empty.js","sourceRoot":"","sources":["../../src/utils/empty.ts"],"names":[],"mappings":"AAAA,MAAM,KAAK,GAAG;IACb,MAAM,EAAE,EAAE;IACV,KAAK,EAAE,EAAE;CACT,CAAA;AAED,eAAe,KAAK,CAAA","sourcesContent":["const empty = {\n\tobject: {},\n\tarray: [],\n}\n\nexport default empty\n"]}

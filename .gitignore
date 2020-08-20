@@ -1,5 +1,4 @@
 node_modules
-build
 example/next-nav/node_modules
 example/react-navigation-5/node_modules
 .expo

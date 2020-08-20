@@ -1,0 +1,1 @@
+{"version":3,"file":"index.js","sourceRoot":"","sources":["../../../src/hooks/use-focus-effect/index.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,cAAc,IAAI,OAAO,EAAE,MAAM,sBAAsB,CAAA","sourcesContent":["export { useFocusEffect as default } from 'expo-navigation-core'\n"]}
